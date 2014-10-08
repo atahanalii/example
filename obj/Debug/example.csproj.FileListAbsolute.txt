@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\example\bin\Debug\example.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\example\bin\Debug\example.exe
+c:\users\asus\documents\visual studio 2013\Projects\example\bin\Debug\example.pdb
+c:\users\asus\documents\visual studio 2013\Projects\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\example\obj\Debug\example.exe
+c:\users\asus\documents\visual studio 2013\Projects\example\obj\Debug\example.pdb
